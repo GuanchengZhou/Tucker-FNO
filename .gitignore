@@ -1,0 +1,5 @@
+.DS_Store
+
+# TensorBoard logs
+**/tensorboard_logs/
+**/events.out.tfevents.*
